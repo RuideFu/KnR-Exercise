@@ -1,6 +1,7 @@
 #include <stdio.h>
-/* print Fahrenheit-Celsius table
-    for fahr = 0, 20, ..., 300; floating-point version */
+
+/*Modify the temperature conversion program to print the table in reverse order,
+that is, from 300 degrees to 0.*/
 int main()
 {
      printf("fahr celsius\n");

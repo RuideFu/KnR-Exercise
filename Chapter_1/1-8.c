@@ -7,6 +7,7 @@
 /* count lines in input */
 // #define TARGET '\n'
 
+/*Write a program to count blanks, tabs, and newlines.*/
 int main()
 {
     int c, nl;
